@@ -1,2 +1,2 @@
 streamlit==1.17.0
-pip install pulp==2.7.0
+pulp==2.7.0
