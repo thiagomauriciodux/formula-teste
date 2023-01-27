@@ -1,5 +1,6 @@
 #-- carregando as libs
 import streamlit as st
+pip install pulp
 from pulp import LpMaximize, LpProblem, LpStatus, LpVariable
 
 #-- títulos
