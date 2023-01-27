@@ -1,2 +1,2 @@
-streamlit==1.17.0
-PuLP==1.6.10
+streamlit
+pulp
